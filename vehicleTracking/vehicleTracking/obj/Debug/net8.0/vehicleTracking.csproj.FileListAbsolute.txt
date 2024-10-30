@@ -1,0 +1,14 @@
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/bin/Debug/net8.0/vehicleTracking
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/bin/Debug/net8.0/vehicleTracking.deps.json
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/bin/Debug/net8.0/vehicleTracking.runtimeconfig.json
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/bin/Debug/net8.0/vehicleTracking.dll
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/bin/Debug/net8.0/vehicleTracking.pdb
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.AssemblyInfoInputs.cache
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.AssemblyInfo.cs
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.csproj.CoreCompileInputs.cache
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.dll
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/refint/vehicleTracking.dll
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.pdb
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/vehicleTracking.genruntimeconfig.cache
+/Users/vernonwilks/C# Projects/vehicleTracking/vehicleTracking/obj/Debug/net8.0/ref/vehicleTracking.dll
